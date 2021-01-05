@@ -1,0 +1,2016 @@
+,city,count
+0,Kuala Lumpur,589
+1,Doha,459
+2,Bangkok,427
+3,London,395
+4,Budapest,387
+5,Montevideo,350
+6,Kuwait City,337
+7,Vienna,336
+8,Copenhagen,327
+9,Oslo,326
+10,Glasgow,322
+11,Buenos Aires,316
+12,Belfast,295
+13,Dublin,293
+14,Seoul,291
+15,Santiago,290
+16,Kampala,282
+17,Nairobi,277
+18,Lima,269
+19,Cairo,264
+20,Brussels,259
+21,San José,251
+22,Helsinki,251
+23,Teheran,240
+24,Jakarta,239
+25,Kingston,239
+26,Muscat,239
+27,Port of Spain,238
+28,Solna,237
+29,Sofia,237
+30,Abu Dhabi,235
+31,Bucharest,230
+32,Mexico City,224
+33,Tunis,223
+34,Moscow,220
+35,Amman,218
+36,Dar es Salaam,217
+37,Riyadh,211
+38,Addis Abeba,208
+39,Attard,206
+40,Prague,196
+41,Port-au-Prince,194
+42,Dakar,193
+43,Belgrade,190
+44,Abidjan,190
+45,Asunción,189
+46,Tallinn,186
+47,Luxembourg,186
+48,Rio de Janeiro,185
+49,Blantyre,184
+50,Cardiff,182
+51,Kallang,182
+52,Amsterdam,181
+53,Reykjavík,181
+54,Libreville,180
+55,Singapore,176
+56,San Salvador,176
+57,Panama City,176
+58,Bamako,173
+59,Paris,172
+60,Guatemala,172
+61,Accra,172
+62,Paramaribo,162
+63,Ouagadougou,162
+64,Riga,159
+65,Los Angeles,157
+66,Bridgetown,149
+67,Lusaka,146
+68,Kigali,143
+69,Istanbul,142
+70,Tripoli,140
+71,Willemstad,139
+72,Lomé,138
+73,Tegucigalpa,137
+74,Dubai,137
+75,Riffa,136
+76,Brazzaville,133
+77,Athens,133
+78,Conakry,132
+79,Rotterdam,131
+80,Warsaw,131
+81,Kinshasa,131
+82,Maputo,130
+83,Harare,129
+84,Tirana,127
+85,Ramat-Gan,127
+86,Baghdad,126
+87,So Kon Po,125
+88,Yaoundé,124
+89,Casablanca,121
+90,Luanda,121
+91,Freetown,121
+92,Fort-de-France,120
+93,Beirut,120
+94,Lisbon,116
+95,La Paz,116
+96,Basseterre,115
+97,Gaborone,113
+98,Nicosia,113
+99,Zagreb,112
+100,Windhoek,111
+101,Saint-Denis,111
+102,Lagos,110
+103,Khartoum,110
+104,Cotonou,109
+105,Algiers,109
+106,Nouméa,109
+107,Johannesburg,108
+108,Georgetown,105
+109,Tashkent,104
+110,Monrovia,103
+111,Skopje,103
+112,Dhaka,103
+113,Maseru,102
+114,Tbilisi,102
+115,Basel,102
+116,Sydney,99
+117,Apia,99
+118,Bratislava,97
+119,St. George's,97
+120,Quito,93
+121,Antananarivo,93
+122,St. John's,93
+123,Wrexham,93
+124,Miami,92
+125,Kyïv,91
+126,Nouakchott,91
+127,Tokyo,90
+128,Berne,90
+129,Colombes,89
+130,Hanoi,89
+131,Beijing,88
+132,Yerevan,88
+133,Kathmandu,88
+134,Guayaquil,87
+135,Damascus,87
+136,Hamilton,87
+137,Suva,86
+138,Bogotá,85
+139,San Pedro Sula,84
+140,Niamey,84
+141,São Paulo,83
+142,Zürich,83
+143,Phnom Penh,83
+144,Madrid,82
+145,Baku,82
+146,Gothenburg,82
+147,Serravalle,81
+148,Stockholm,80
+149,Victoria,80
+150,Banjul,79
+151,Limassol,78
+152,Lilongwe,78
+153,Havana,78
+154,Rangoon,77
+155,Barcelona,77
+156,Vaduz,77
+157,Auckland,76
+158,Geneva,76
+159,Rabat,75
+160,Praia,75
+161,Alexandria,73
+162,Jeddah,73
+163,Saigon,73
+164,Berlin,72
+165,Rome,71
+166,Minsk,70
+167,Malé,70
+168,Milan,69
+169,Vilnius,69
+170,East Rutherford,68
+171,Bissau,68
+172,Kaunas,68
+173,Papeete,68
+174,Colombo,68
+175,Piraeus,67
+176,Honiara,66
+177,Durban,66
+178,Antwerp,65
+179,Melbourne,65
+180,Roseau,64
+181,Manama,63
+182,Malabo,63
+183,Leipzig,63
+184,George Town,62
+185,Ljubljana,62
+186,Chorzów,62
+187,Castries,62
+188,Kumasi,62
+189,Zanzibar,61
+190,Porto,61
+191,Radès,60
+192,Lobamba,59
+193,Kingstown,59
+194,Cayenne,59
+195,Washington,58
+196,Larnaca,57
+197,Ndola,56
+198,New Delhi,56
+199,Sant Julià de Lòria,56
+200,Oranjestad,56
+201,Seville,55
+202,Podgorica,55
+203,Curepipe,55
+204,Tórshavn,55
+205,Calcutta,54
+206,San Cristóbal,53
+207,Foxborough,53
+208,Toronto,53
+209,Chişinău,53
+210,Manila,53
+211,Marrakech,53
+212,Barranquilla,53
+213,Hamburg,52
+214,Ipoh,52
+215,Port Vila,51
+216,Zenica,50
+217,Houston,50
+218,Turin,50
+219,San Fernando,49
+220,Vientiane,48
+221,Sana'a,48
+222,Oeiras,48
+223,Dammam,47
+224,Bujumbura,47
+225,Almaty,45
+226,Macau,45
+227,Lausanne,45
+228,Sarajevo,44
+229,N'Djamena,44
+230,Chicago,44
+231,P'yongyang,44
+232,Stuttgart,44
+233,Al Ain,44
+234,Bakau,43
+235,Frankfurt am Main,43
+236,Saitama,43
+237,Malmö,43
+238,Guangzhou,42
+239,Pasadena,42
+240,Dushanbe,42
+241,Hanover,41
+242,Brisbane,41
+243,Jaffa,40
+244,Taipei,40
+245,Ho Chi Minh City,39
+246,Saint-Pierre,39
+247,Shah Alam,39
+248,Sharjah,39
+249,Antalya,38
+250,Yokohama,38
+251,Caracas,37
+252,Florence,37
+253,Polokwane,37
+254,Belo Horizonte,37
+255,Mbabane,37
+256,Guadalajara,37
+257,Basse-Terre,37
+258,Toftir,37
+259,Viña del Mar,37
+260,Liverpool,37
+261,Mwanza,37
+262,Izmir,37
+263,Manchester,36
+264,Adelaide,36
+265,Cape Town,36
+266,Montego Bay,36
+267,San Juan,36
+268,Valencia,36
+269,Omdurman,36
+270,San Diego,35
+271,Bishkek,35
+272,Genoa,35
+273,Eindhoven,35
+274,Bloemfontein,35
+275,Port Elizabeth,35
+276,Cologne,35
+277,Bata,34
+278,Marseille,34
+279,Les Abymes,34
+280,Monterrey,34
+281,Naples,34
+282,Carson,34
+283,Macoya,34
+284,Rustenburg,34
+285,Gibraltar,34
+286,Blida,34
+287,Munich,34
+288,Düsseldorf,33
+289,Cochabamba,33
+290,Salvador,33
+291,Bulawayo,33
+292,Port Moresby,33
+293,Kowloon,33
+294,Bangui,33
+295,Bilbao,32
+296,Santa Cruz,32
+297,Liège,32
+298,Ashgabat,32
+299,Douala,32
+300,Benghazi,31
+301,Gżira,31
+302,Kitwe,31
+303,Paynesville,31
+304,Faro,31
+305,Pointe-Noire,31
+306,Djibouti,30
+307,Bologna,30
+308,Ankara,30
+309,St. Sampson,30
+310,Arusha,30
+311,Poznań,30
+312,Gelsenkirchen,30
+313,Dortmund,30
+314,Lyon,29
+315,Annaba,29
+316,Bouaké,29
+317,St. Gallen,29
+318,Trnava,29
+319,Östersund,28
+320,Salonica,28
+321,Nuremberg,28
+322,Fort Lauderdale,28
+323,Maracaibo,28
+324,Road Town,28
+325,Santo Domingo,27
+326,Kristiania,27
+327,Suwon,27
+328,Bayamón,27
+329,Córdoba,27
+330,León,27
+331,Astana,27
+332,Porto Alegre,27
+333,Dallas,26
+334,Karachi,26
+335,Graz,26
+336,Mombasa,26
+337,Swansea,26
+338,Recife,26
+339,Franceville,25
+340,The Valley,25
+341,Asmara,25
+342,Shetland,25
+343,Wrocław,25
+344,Goiânia,24
+345,Busan,24
+346,St. Helier,24
+347,Harrison,23
+348,Klagenfurt,23
+349,Maribor,23
+350,Tampere,23
+351,Lautoka,23
+352,Nelspruit,23
+353,Avellaneda,23
+354,Salisbury,23
+355,Ta'if,22
+356,Margao,22
+357,al-Ain,22
+358,Ismailia,22
+359,Managua,22
+360,Saint-Étienne,22
+361,Edmonton,22
+362,Seattle,22
+363,Sousse,22
+364,St. Petersburg,22
+365,Chișinău,22
+366,Cracow,22
+367,Suhkumi,22
+368,Lae,22
+369,Osaka,22
+370,Couva,22
+371,Innsbruck,22
+372,Palermo,21
+373,Abuja,21
+374,Agadir,21
+375,Birmingham,21
+376,Isa Town,21
+377,Lens,21
+378,Rhodos,21
+379,Žilina,21
+380,Newcastle,21
+381,Salzburg,20
+382,Miami Gardens,20
+383,Monastir,20
+384,São Tomé,20
+385,Sidon,20
+386,Split,20
+387,Teplice,20
+388,Toulouse,20
+389,Anglesey,20
+390,Machakos,20
+391,Shanghai,20
+392,Wellington,19
+393,Arima,19
+394,Nantes,19
+395,Kobe,19
+396,Haifa,19
+397,Mendoza,19
+398,Irbid,19
+399,Bordeaux,19
+400,North Shore,19
+401,Hyderabad,19
+402,Visby,19
+403,Addis Ababa,19
+404,Bobo Dioulasso,19
+405,Edinburgh,18
+406,Łódź,18
+407,Oakland,18
+408,L'viv,18
+409,Pretoria,18
+410,Lucerne,18
+411,Celje,18
+412,Daegu,18
+413,Rosario,18
+414,Rayyan,18
+415,Hiroshima,18
+416,Málaga,17
+417,Fortaleza,17
+418,Curitiba,17
+419,Chengdu,17
+420,Dresden,17
+421,Dededo,17
+422,Mogadishu,17
+423,Rijeka,17
+424,Ibadan,17
+425,Nausori,17
+426,Manzini,17
+427,Sfax,17
+428,Debrecen,17
+429,Puerto la Cruz,17
+430,Orlando,17
+431,New York,17
+432,Kaiserslautern,16
+433,Canberra,16
+434,Åland,16
+435,Mar del Plata,16
+436,Puerto Ordaz,16
+437,Alajuela,16
+438,Montréal,16
+439,Arbil,16
+440,Incheon,16
+441,Nassau,16
+442,Bergen,16
+443,Puebla,16
+444,Vieux Fort,16
+445,Isle of Wight,16
+446,Daejeon,16
+447,Shkodër,16
+448,Brasília,16
+449,Las Palmas,16
+450,Thimphu,16
+451,Ulaanbaatar,15
+452,Nice,15
+453,Wuhan,15
+454,Turku,15
+455,Jerusalem,15
+456,Chongqing,15
+457,Sheffield,15
+458,Aberdeen,15
+459,Pointe-à-Pitre,15
+460,Bari,15
+461,Vigo,15
+462,Bacolod,15
+463,Medellín,15
+464,Elbasan,15
+465,Port Said,15
+466,Port Louis,14
+467,Ernakulam,14
+468,Jinja,14
+469,Tampa,14
+470,Belmopan,14
+471,Burnaby,14
+472,Barysaw,14
+473,Cali,14
+474,Alicante,14
+475,Niigata,14
+476,Moruleng-Saulspoort,14
+477,Ostrava,14
+478,Palo Alto,13
+479,Århus,13
+480,Braga,13
+481,Benguela,13
+482,Leiria,13
+483,Philadelphia,13
+484,Toluca,13
+485,Moruleng,13
+486,Gdańsk,13
+487,Columbus,13
+488,Rivière-Pilote,13
+489,Zomba,13
+490,Gijón,13
+491,Glendale,13
+492,Olomouc,13
+493,Arica,13
+494,Bruges,13
+495,Ciudad del Este,13
+496,Manaus,13
+497,Rouen,13
+498,Norrköping,13
+499,Islamabad,13
+500,St. Peter,13
+501,Rancagua,13
+502,Kuching,13
+503,Providence,13
+504,Tamuning,13
+505,Mzuzu,13
+506,Muharraq,13
+507,Linz,12
+508,Esch-sur-Alzette,12
+509,Košice,12
+510,Montpellier,12
+511,Petaling Jaya,12
+512,San Francisco,12
+513,Sochi,12
+514,Constanţa,12
+515,Luque,12
+516,Chililabombwe,12
+517,Kazan,12
+518,Ségou,12
+519,Eschen,12
+520,Udine,12
+521,Atlanta,12
+522,Arlington,12
+523,Aden,12
+524,North Sound,12
+525,Jeonju,12
+526,Khobar,12
+527,Cochin,12
+528,Thiruvananthapuram,12
+529,Osijek,12
+530,Douglas,12
+531,Brno,12
+532,Sunderland,11
+533,Chiang Mai,11
+534,Tianjin,11
+535,Ulsan,11
+536,Christchurch,11
+537,Kharkiv,11
+538,Fullerton,11
+539,Mapou,11
+540,Chittagong,11
+541,La Coruña,11
+542,Pirae,11
+543,P'yŏngyang,11
+544,Songkhla,11
+545,Siu Sai Wan,11
+546,Vancouver,11
+547,Phuket,11
+548,Saint-Ouen,11
+549,Frisco,11
+550,Port Harcourt,11
+551,Oran,11
+552,Kaohsiung,11
+553,Aleppo,11
+554,Valparaíso,11
+555,Gros Islet,11
+556,Querétaro,11
+557,Mérida,11
+558,Kunming,11
+559,Mitsamiouli,11
+560,Boulari,11
+561,Tamale,10
+562,Yona,10
+563,Gwangju,10
+564,Dodoma,10
+565,St. Louis,10
+566,Pristina,10
+567,Peshawar,10
+568,Shenyang,10
+569,Concepción,10
+570,Elche,10
+571,Bremen,10
+572,Arnhem,10
+573,Porto-Novo,10
+574,Donets'k,10
+575,Heraklion,10
+576,Granada,10
+577,Saint-Leu-la-Forêt,10
+578,Bandar Seri Begawan,10
+579,Bydgoszcz,10
+580,Luganville,10
+581,Santa Ana,10
+582,Avarua,10
+583,Enfield,10
+584,Lugano,10
+585,Kansas City,10
+586,Coffs Harbour,10
+587,Coimbra,10
+588,Ōita,10
+589,Sapporo,10
+590,Kyrenia,10
+591,Mbale,10
+592,Toyota,10
+593,Hawassa,10
+594,Linden,10
+595,Philipsburg,10
+596,Villeneuve-d'Ascq,10
+597,Hesperange,10
+598,Lubango,10
+599,Magdeburg,9
+600,Bangalore,9
+601,Karl-Marx-Stadt,9
+602,Novi Sad,9
+603,Juba,9
+604,Jinan,9
+605,Cuenca,9
+606,Paysandú,9
+607,San Antonio,9
+608,Atteridgeville,9
+609,Szczecin,9
+610,Väskinde,9
+611,Francistown,9
+612,Jomala,9
+613,Saarbrücken,9
+614,al-Wakrah,9
+615,Chingola,9
+616,Marigot,9
+617,Andorra la Vella,9
+618,Uyo,9
+619,Kano,9
+620,Gisenyi,9
+621,Rostock,9
+622,Bahir Dar,9
+623,Lahore,9
+624,al-Farwaniyah,9
+625,Dalhem,9
+626,La Plata,9
+627,Trivandrum,9
+628,Natal,9
+629,Seeb,9
+630,Port-Gentil,9
+631,Phokeng,9
+632,Varna,9
+633,Oviedo,9
+634,Madras,9
+635,Changsha,9
+636,Luxembourg City,9
+637,Trabzon,9
+638,Constantine,9
+639,Denver,9
+640,Nanning,9
+641,Arequipa,8
+642,Fardhem,8
+643,Maturín,8
+644,Aveiro,8
+645,Secunda,8
+646,Rivera,8
+647,Nakuru,8
+648,Trondheim,8
+649,Liepāja,8
+650,Sekondi,8
+651,Nashville,8
+652,Krasnodar,8
+653,Lubumbashi,8
+654,Paralímni,8
+655,Verona,8
+656,Santa Clara,8
+657,Zaragoza,8
+658,Maldonado,8
+659,Leverkusen,8
+660,Sikasso,8
+661,Aswan,8
+662,Tangiers,8
+663,Burgas,8
+664,Suez,8
+665,Calabar,8
+666,Guimarães,8
+667,Helsingborg,8
+668,Basra,8
+669,Kabul,8
+670,Chōfu,8
+671,Cabinda,8
+672,Cagliari,8
+673,Kufstein,8
+674,Charlotte Amalie,8
+675,Bursa,8
+676,Utrecht,8
+677,Kashima,8
+678,Parma,8
+679,Zarqa,8
+680,San Jose,8
+681,Cuiabá,8
+682,St. Martin,8
+683,Győr,8
+684,Stepanakert,8
+685,Brøndby,8
+686,Odense,8
+687,Varaždin,8
+688,Ba,8
+689,Cartagena,8
+690,Volgograd,7
+691,Temuco,7
+692,Paya Rumput,7
+693,Hammarland,7
+694,Santander,7
+695,Rostov-on-Don,7
+696,Fukuroi,7
+697,Bochum,7
+698,Le Havre,7
+699,Bocaue,7
+700,Xi'an,7
+701,Cannes,7
+702,Dire Dawa,7
+703,Mumbai,7
+704,Sucre,7
+705,Tel Aviv,7
+706,St. Lawrence,7
+707,Ahmedabad,7
+708,Charleroi,7
+709,Cluj,7
+710,Tabriz,7
+711,Vincennes,7
+712,Freiburg,7
+713,Halmstad,7
+714,Diriamba,7
+715,Gällivare,7
+716,Le Lamentin,7
+717,Nizhny Novgorod,7
+718,Moroni,7
+719,Lahti,7
+720,Paphos,7
+721,Karlsruhe,7
+722,Oyem,7
+723,East Hartford,7
+724,St. Clement,7
+725,Rennes,7
+726,Mönchengladbach,7
+727,Barquisimeto,7
+728,Belek,7
+729,Fårösund,7
+730,Butare,7
+731,Katowice,7
+732,Tiraspol,7
+733,Bizerte,7
+734,Craiova,7
+735,Cornwall,7
+736,Kakamega,7
+737,Mumias,7
+738,Ziguinchor,7
+739,Grouville,7
+740,Charlotte,7
+741,Barinas,7
+742,Aalborg,7
+743,Witbank,7
+744,Middlesbrough,7
+745,Fès,6
+746,Eckerö,6
+747,Coquimbo,6
+748,Lookout,6
+749,Kuressaare,6
+750,Dalian,6
+751,Mongomo,6
+752,Erfurt,6
+753,Ploieşti,6
+754,La Courneuve,6
+755,Odesa,6
+756,Zabrze,6
+757,Cleveland,6
+758,Pereira,6
+759,Mandalay,6
+760,Samara,6
+761,Kassala,6
+762,La Serena,6
+763,Wad Madani,6
+764,Kuantan,6
+765,Timişoara,6
+766,Konya,6
+767,Sion,6
+768,Saint-Gratien,6
+769,Seogwipo,6
+770,Pontiac,6
+771,Xewkija,6
+772,Tacna,6
+773,Addu City,6
+774,Haringey,6
+775,Duisburg,6
+776,Halle,6
+777,Stavanger,6
+778,Netanya,6
+779,Commerce City,6
+780,Mafikeng,6
+781,Borås,6
+782,Cowes,6
+783,Nakhon Ratchasima,6
+784,Székesfehérvár,6
+785,Franconville,6
+786,Ambato,6
+787,Armenia,6
+788,Strasbourg,6
+789,Dunedin,6
+790,Providenciales,6
+791,New Haven,6
+792,Sutton,6
+793,Palo Seco,6
+794,Gagra,6
+795,Perugia,6
+796,Setúbal,6
+797,‘Atele,6
+798,Kaliningrad,6
+799,Pescara,6
+800,Brading,6
+801,Saint-Paul,6
+802,Jacksonville,6
+803,Ebebiyín,6
+804,Lobatse,6
+805,Créteil,6
+806,Kaduna,6
+807,Chester,6
+808,Nottingham,6
+809,Shymkent,6
+810,San Sebastián,6
+811,Baltimore,6
+812,Leeds,6
+813,Genk,6
+814,Pärnu,6
+815,Ajaccio,6
+816,Plzeň,6
+817,Valladolid,6
+818,Rifu,6
+819,Santiago de los Caballeros,6
+820,Morphou,5
+821,Ta’if,5
+822,Neuchâtel,5
+823,Pokhara,5
+824,Anaheim,5
+825,Campo Grande,5
+826,Askeran,5
+827,Gera,5
+828,Chiclayo,5
+829,Blackburn,5
+830,Nanjing,5
+831,Portoviejo,5
+832,Portland,5
+833,Murcia,5
+834,Palma de Mallorca,5
+835,Nagoya,5
+836,Vila Real de Santo António,5
+837,Buriram,5
+838,Klaksvík,5
+839,Arad,5
+840,Xinjing,5
+841,Kisumu,5
+842,Beira,5
+843,Prilep,5
+844,La Chorrera,5
+845,Hwaseong,5
+846,Landskrona,5
+847,Palembang,5
+848,Malmberget,5
+849,Latakia,5
+850,Newport,5
+851,Monaco,5
+852,Hong Kong,5
+853,Albacete,5
+854,Santa Fe,5
+855,Saransk,5
+856,East Riffa,5
+857,Trieste,5
+858,Vantaa,5
+859,Banda Aceh,5
+860,Fort de France,5
+861,Lefkoşa,5
+862,Marijampolė,5
+863,Guatemala City,5
+864,Carshalton,5
+865,Breslau,5
+866,Viry-Châtillon,5
+867,Bombay,5
+868,La Ceiba,5
+869,Zinjibar,5
+870,6th of October City,5
+871,Tangier,5
+872,Falmouth,5
+873,Medan,5
+874,Piscataway,5
+875,Antofagasta,5
+876,Shenzhen,5
+877,Irapuato,5
+878,Tlemcen,5
+879,Augsburg,5
+880,Cádiz,5
+881,Monterey Park,5
+882,Wolverhampton,5
+883,Sannat,5
+884,Viljandi,5
+885,Mazatenango,5
+886,Marbella,5
+887,Famagusta,5
+888,Nezahualcóyotl,5
+889,Benin City,5
+890,Jerez de la Frontera,5
+891,Nadi,5
+892,Brescia,5
+893,Phoenix,4
+894,Bauchi,4
+895,Ioannina,4
+896,Garoua,4
+897,Oruro,4
+898,Adana,4
+899,Al Ram,4
+900,Mission Viejo,4
+901,Toulon,4
+902,São Luís,4
+903,Strumica,4
+904,Goyang,4
+905,Sund,4
+906,Sandy,4
+907,Liberec,4
+908,Dili,4
+909,Herning,4
+910,Limbe,4
+911,Melun,4
+912,Molepolole,4
+913,Säve,4
+914,Dundee,4
+915,Mopti,4
+916,Sittard,4
+917,Ekaterinburg,4
+918,Esbjerg,4
+919,Nitra,4
+920,Bergamo,4
+921,Leonora,4
+922,Stenkyrka,4
+923,Mielec,4
+924,Kilmarnock,4
+925,Perth,4
+926,Västerås,4
+927,Derby,4
+928,Leicester,4
+929,Uberlândia,4
+930,Pisa,4
+931,Paroi,4
+932,Cheonan,4
+933,Eskişehir,4
+934,Trujillo,4
+935,Lecce,4
+936,Mahajanga,4
+937,Bromley,4
+938,Piatra Neamţ,4
+939,Koper,4
+940,Lviv,4
+941,Belém,4
+942,Khimki,4
+943,Nijmegen,4
+944,Ludwigshafen,4
+945,Zalaegerszeg,4
+946,East Cowes,4
+947,Simferopol,4
+948,Osbourn,4
+949,Changwon,4
+950,Hangzhou,4
+951,Paola,4
+952,Valga,4
+953,Pune,4
+954,Beauvais,4
+955,Salta,4
+956,Gazimağusa,4
+957,Surabaya,4
+958,Machala,4
+959,Évry/Bondoufle,4
+960,Johor Baharu,4
+961,Arnos Vale,4
+962,New Britain,4
+963,Salerno,4
+964,Metz,4
+965,Forest,4
+966,Port Morseby,4
+967,Martuni,4
+968,Funchal,4
+969,St. Ouen,4
+970,Martakert,4
+971,St. Brelade,4
+972,Solo,4
+973,Ostrowiec Świętokrzyski,4
+974,Bastia,4
+975,Cikarang,4
+976,Torrance,4
+977,Varese,4
+978,Surakarta,4
+979,Guwahati,4
+980,Tehran,4
+981,Getafe,4
+982,Bracknell,4
+983,Bishan,4
+984,Cary,4
+985,Örebro,4
+986,Onomichi,4
+987,Nuku'alofa,4
+988,Salamanca,4
+989,Ploiești,4
+990,Le Mans,4
+991,Huelva,4
+992,Frederiksted,4
+993,Mainz,3
+994,Winnipeg,3
+995,Finström,3
+996,Villach,3
+997,Shanklin,3
+998,Slough,3
+999,Kyoto,3
+1000,Cap-Haïtien,3
+1001,Stoke-on-Trent,3
+1002,Kielce,3
+1003,Saltvik,3
+1004,Rotherhithe,3
+1005,Misurata,3
+1006,Ancona,3
+1007,Abha,3
+1008,Veracruz,3
+1009,Puerto Cortés,3
+1010,Prishtina,3
+1011,Fukuoka,3
+1012,Siófok,3
+1013,Güzelyurt,3
+1014,Offenbach am Main,3
+1015,Akdoğan,3
+1016,Suita,3
+1017,Morogoro,3
+1018,Modena,3
+1019,Bridgeview,3
+1020,Lille,3
+1021,Ventspils,3
+1022,Brentford,3
+1023,Freshwater,3
+1024,Big Bend,3
+1025,Leningrad,3
+1026,Hagätña,3
+1027,Kuopio,3
+1028,Lárisa,3
+1029,al-Ramm,3
+1030,Parramatta,3
+1031,Sankt Pölten,3
+1032,Saint George's,3
+1033,Kayes,3
+1034,Le Petit-Quevilly,3
+1035,Tursunzoda,3
+1036,Koror,3
+1037,Ramsey,3
+1038,Lubin,3
+1039,Irvine,3
+1040,Moanda,3
+1041,Logroño,3
+1042,Rhodes,3
+1043,Nonthaburi,3
+1044,Caen,3
+1045,Kalamáta,3
+1046,Asaba,3
+1047,Sandviken,3
+1048,Ghent,3
+1049,Gagny,3
+1050,Cork,3
+1051,Nyíregyháza,3
+1052,Piura,3
+1053,Kayseri,3
+1054,Hartberg,3
+1055,Beersheba,3
+1056,Uddevalla,3
+1057,Mitrovica,3
+1058,Balzers,3
+1059,Jurong,3
+1060,Jessore,3
+1061,Newark,3
+1062,Heredia,3
+1063,Guimaraes,3
+1064,La Línea de la Concepción,3
+1065,Cesena,3
+1066,Gəncə,3
+1067,Viseu,3
+1068,Pula,3
+1069,Sleman,3
+1070,Titograd,3
+1071,Kira,3
+1072,Torreón,3
+1073,Damanhur,3
+1074,Radom,3
+1075,Altona,3
+1076,The Hague,3
+1077,Castletown,3
+1078,Tétouan,3
+1079,Szombathely,3
+1080,Wolfsburg,3
+1081,San Luis Potosí,3
+1082,Fresno,3
+1083,Mannheim,3
+1084,Hemse,3
+1085,Narva,3
+1086,Pedro Juan Caballero,3
+1087,Kópavogur,3
+1088,Hyères,3
+1089,Manizales,3
+1090,Dnipropetrovs'k,3
+1091,Southampton,3
+1092,Murska Sobota,3
+1093,Dubnica nad Váhom,3
+1094,Shizuoka,3
+1095,Akranes,3
+1096,Belize City,3
+1097,Kota Bharu,3
+1098,Reims,3
+1099,Al Wakrah,3
+1100,Parmaribo,3
+1101,Hebron,3
+1102,Beer Sheva,3
+1103,Patras,3
+1104,Zahlé,3
+1105,al-Mahalla al-Kubra,3
+1106,Aveley,3
+1107,Matsuyama,3
+1108,High Point,3
+1109,Tuxtla Gutiérrez,3
+1110,Barotac Nuevo,3
+1111,Saint-Marc,3
+1112,Nur-Sultan,3
+1113,Nyon,3
+1114,Iloilo City,3
+1115,Belle Vue Maurel,3
+1116,St. Croix Island,3
+1117,Belize,3
+1118,Boca Raton,3
+1119,Bandung,3
+1120,Peel,3
+1121,Sidoarjo,3
+1122,Brest,3
+1123,Kavála,3
+1124,Siliguri,3
+1125,West Bromwich,3
+1126,Bacolet,3
+1127,Estoril,3
+1128,Taipa,3
+1129,Port Sudan,3
+1130,Montrouge,3
+1131,Thiès,3
+1132,Johor Bahru,3
+1133,Albuquerque,3
+1134,Tartu,3
+1135,Santa Cruz de Tenerife,3
+1136,Homel,3
+1137,Llanelli,3
+1138,Hougang,3
+1139,Watford,3
+1140,Dundo,3
+1141,Pathum Thani,3
+1142,Richmond,3
+1143,Cadiz,3
+1144,Lwów,3
+1145,Estelí,3
+1146,Look Out,3
+1147,Amiens,3
+1148,Vila-real,3
+1149,Sibiu,3
+1150,Klaipėda,3
+1151,Yangon,3
+1152,Petah Tikva,3
+1153,Uherské Hradiště,3
+1154,Morelia,2
+1155,Tempe,2
+1156,Badajoz,2
+1157,Königsberg,2
+1158,Kochi,2
+1159,Słupsk,2
+1160,Agía Nápa,2
+1161,Nizwa,2
+1162,Mashhad,2
+1163,Zhongshan,2
+1164,Reutlingen,2
+1165,Mayagüez,2
+1166,Oliva,2
+1167,New Cairo,2
+1168,Montecatini Terme,2
+1169,Ayutthaya,2
+1170,Ottawa,2
+1171,Potsdam,2
+1172,el-Jadida,2
+1173,Messina,2
+1174,Khujand,2
+1175,Durrës,2
+1176,Issy-les-Moulineaux,2
+1177,Enugu,2
+1178,Avignon,2
+1179,Corbeil-Essonnes,2
+1180,Scarborough,2
+1181,Centre de Flacq,2
+1182,Salalah,2
+1183,Wattens,2
+1184,Akureyri,2
+1185,Nova Gorica,2
+1186,Ivory Coast,2
+1187,Rwanda,2
+1188,Bondoufle,2
+1189,al-Rayyan,2
+1190,el-Gouna,2
+1191,Schwaz,2
+1192,Obuasi,2
+1193,Sulaymaniyah,2
+1194,Abovyan,2
+1195,Versailles,2
+1196,Grödig,2
+1197,Freetowm,2
+1198,Ciudad Juárez,2
+1199,Gennevilliers,2
+1200,Chemnitz,2
+1201,Gøta,2
+1202,Olhão,2
+1203,Vitoria-Gasteiz,2
+1204,Wollongong,2
+1205,Limerick,2
+1206,Aïn Draham,2
+1207,Hisor,2
+1208,Bushbuckridge,2
+1209,Matsumoto,2
+1210,Novara,2
+1211,Calicut,2
+1212,Detroit,2
+1213,San Salvador de Jujuy,2
+1214,Sandur,2
+1215,Lesotho,2
+1216,Heerenveen,2
+1217,Roodepoort,2
+1218,Ashdod,2
+1219,Valence,2
+1220,Hawalli,2
+1221,Bry-sur-Marne,2
+1222,Võru,2
+1223,Abeokuta,2
+1224,Cornellà de Llobregat,2
+1225,St. John,2
+1226,Rose Hill,2
+1227,Estepona,2
+1228,Salahaddin,2
+1229,Quetzaltenango,2
+1230,Bradenton,2
+1231,Fitzwilliam,2
+1232,Masvingo,2
+1233,Crewe,2
+1234,Port Erin,2
+1235,Vaasa,2
+1236,Kotka,2
+1237,Mariehamn,2
+1238,Capesterre-Belle-Eau,2
+1239,Achna,2
+1240,Bielefeld,2
+1241,Cottbus,2
+1242,Bin Ghashir,2
+1243,Bathurst,2
+1244,Catania,2
+1245,Växjö,2
+1246,Kenitra,2
+1247,Malang,2
+1248,Bogor,2
+1249,Fuglafjørður,2
+1250,West Bay,2
+1251,Suzhou,2
+1252,Auxerre,2
+1253,Chaves,2
+1254,Paisley,2
+1255,Balkanabat,2
+1256,Koné,2
+1257,Aix-en-Provence,2
+1258,Llagostera,2
+1259,Lalitpur,2
+1260,Castellón de la Plana,2
+1261,Bełchatów,2
+1262,Altach,2
+1263,St. Peter Port,2
+1264,Reggio di Calabria,2
+1265,Mantes-la-Ville,2
+1266,Meknès,2
+1267,Jablonec nad Nisou nad Nisou,2
+1268,Mahé,2
+1269,Florianópolis,2
+1270,Krefeld,2
+1271,Morocco,2
+1272,Chorzow,2
+1273,Borisov,2
+1274,Llandudno,2
+1275,Dordrecht,2
+1276,Braşov,2
+1277,Vólos,2
+1278,Tilburg,2
+1279,Lancy,2
+1280,Mladá Boleslav,2
+1281,Mindelo,2
+1282,Saint-Ouen-l'Aumône,2
+1283,Port au Prince,2
+1284,Nursultan,2
+1285,Mufulira,2
+1286,Ribeirão Preto,2
+1287,Teresina,2
+1288,Hefei,2
+1289,Ha'ateiho,2
+1290,Las Vegas,2
+1291,Saint Croix,2
+1292,Ponta Delgada,2
+1293,Verviers,2
+1294,Cap-d'Ail,2
+1295,Gurgaon,2
+1296,Aachen,2
+1297,Nîmes,2
+1298,Karaj,2
+1299,Faro-Loulé,2
+1300,Bristol,2
+1301,Albano Laziale,2
+1302,Ingolstadt,2
+1303,Sendai,2
+1304,Ciudad Guayana,2
+1305,Molde,2
+1306,Évreux,2
+1307,Quartier d'Orléans,2
+1308,Subotica,2
+1309,Saint-Brieuc,2
+1310,Banja Luka,2
+1311,Drnovice,2
+1312,Roche Caiman,2
+1313,Differdange,2
+1314,Guingamp,2
+1315,San Ignacio,2
+1316,Milton Keynes,2
+1317,Padua,2
+1318,Frankfurt an der Oder,2
+1319,New Jersey,2
+1320,Maceió,2
+1321,Stara Zagora,2
+1322,Ettelbruck,2
+1323,Valera,2
+1324,Denizli,2
+1325,Robina,2
+1326,Anyang,2
+1327,Mhlume,2
+1328,Blairmont,2
+1329,Nam Định,2
+1330,Ethiopia,2
+1331,Reggio Emilia,2
+1332,Niš,2
+1333,Al Farwaniyah,2
+1334,Girona,2
+1335,Essen,2
+1336,Saint Paul,2
+1337,Kutaisi,2
+1338,Bangor,2
+1339,Lower Hutt,2
+1340,Covilhã,2
+1341,Yishun,2
+1342,Ismaila,2
+1343,Płock,2
+1344,Qinhuangdao,2
+1345,Hartford,2
+1346,Black Rock,2
+1347,Jena,2
+1348,Susupe,2
+1349,Haarlem,2
+1350,Uitvlugt,2
+1351,Zwolle,2
+1352,Groningen,2
+1353,Selebi-Phikwe,2
+1354,Ulan Bator,2
+1355,Hohhot,2
+1356,Vieux-Habitants,2
+1357,Wronki,2
+1358,Gangneung,2
+1359,Antigua Guatemala,2
+1360,Bad Erlach,2
+1361,Hải Phòng,2
+1362,Clairefontaine-en-Yvelines,2
+1363,Landover,2
+1364,Plovdiv,2
+1365,Sinsheim,2
+1366,Samarqand,2
+1367,Fürth,2
+1368,Dherynia,2
+1369,Kumamoto,2
+1370,East London,2
+1371,Burghausen,2
+1372,Duhok,2
+1373,Zhuhai,2
+1374,Daşoguz,2
+1375,Seremban,2
+1376,Alzira,2
+1377,Mascara,2
+1378,Ossett,2
+1379,Nuuk,2
+1380,Aarhus,2
+1381,Gianyar,2
+1382,Mons,2
+1383,Al Ahmadi,2
+1384,Altenkirchen,1
+1385,al-Hasa,1
+1386,Perivólia,1
+1387,Gijon,1
+1388,Shiraz,1
+1389,Berat,1
+1390,Ozolnieki,1
+1391,Pégeia,1
+1392,Voronezh,1
+1393,Krubong,1
+1394,Mekele,1
+1395,Acapulco,1
+1396,Bourj Hammoud,1
+1397,Kleve,1
+1398,Bethlehem,1
+1399,Jalan Besar,1
+1400,Titova Mitrovica,1
+1401,Umtali,1
+1402,Bastia Umbra,1
+1403,Speers Point,1
+1404,Anif,1
+1405,Wels,1
+1406,Salon-de-Provence,1
+1407,Cocoa Beach,1
+1408,Albufeira,1
+1409,Sohar,1
+1410,Santos,1
+1411,Njeru,1
+1412,Gosford,1
+1413,Namp'o,1
+1414,Rybnik,1
+1415,Jenin,1
+1416,Bendigo,1
+1417,Púla,1
+1418,Jablonec nad Nisou,1
+1419,Fort Pierce,1
+1420,Mauer,1
+1421,Ulm,1
+1422,Nanchang,1
+1423,Rohrbach an der Lafnitz,1
+1424,Gävle,1
+1425,Winterthur,1
+1426,Senlis,1
+1427,Valenciennes,1
+1428,Ústí nad Labem,1
+1429,Karbala,1
+1430,Greensboro,1
+1431,Urziceni,1
+1432,Chamazi,1
+1433,Bradford,1
+1434,Kénitra,1
+1435,Arles,1
+1436,Bucheon,1
+1437,Taranto,1
+1438,Antibes,1
+1439,Dunajská Streda,1
+1440,Brzeszcze,1
+1441,Šibenik,1
+1442,Saint-Nazaire,1
+1443,Frankfurt,1
+1444,Jericho,1
+1445,Taunusstein,1
+1446,Longjumeau,1
+1447,al-Ubayyid,1
+1448,Ruse,1
+1449,Kretinga,1
+1450,Neiva,1
+1451,Jūrmala,1
+1452,Limeil-Brévannes,1
+1453,St Gallen,1
+1454,Veliko Tărnovo,1
+1455,Salmiya,1
+1456,Grenoble,1
+1457,Kingston upon Hull,1
+1458,Jastrzębie-Zdrój,1
+1459,Aubervilliers,1
+1460,Sivas,1
+1461,Coventry,1
+1462,Palmerston North,1
+1463,Chula Vista,1
+1464,Rajshahi,1
+1465,Jubail,1
+1466,Chantilly,1
+1467,Sankt Veit an der Glan,1
+1468,Jurong West,1
+1469,Tete,1
+1470,Kapfenberg,1
+1471,Borovo,1
+1472,Port el-Kantaoui,1
+1473,Wuppertal,1
+1474,Gweru,1
+1475,Mutare,1
+1476,Vitsebsk,1
+1477,Livorno,1
+1478,Bucaramanga,1
+1479,Meyrin,1
+1480,Neskaupstaður,1
+1481,Gangtok,1
+1482,Olmaliq,1
+1483,São José do Rio Preto,1
+1484,Jwaneng,1
+1485,Höfn,1
+1486,Luzern,1
+1487,Luleå,1
+1488,Wakefield,1
+1489,Agilat,1
+1490,Cusco,1
+1491,Villeneuve D'Ascq,1
+1492,Clermont-Ferrand,1
+1493,Siena,1
+1494,Sandefjord,1
+1495,Chennai,1
+1496,Iquique,1
+1497,Marsa,1
+1498,Moquegua,1
+1499,Ascoli Piceno,1
+1500,Chalcis,1
+1501,Uccle,1
+1502,Stettin,1
+1503,Brandenburg,1
+1504,Białystok,1
+1505,Savanna-la-Mar,1
+1506,Zhengzhou,1
+1507,Sur,1
+1508,Visé,1
+1509,Deventer,1
+1510,Umm al-Fahm,1
+1511,Al Rayyan,1
+1512,Al-Ain,1
+1513,Chuncheon,1
+1514,Gisborne,1
+1515,Davidson,1
+1516,Pomona,1
+1517,Wakayama,1
+1518,Gossau,1
+1519,Equatorial Guinea,1
+1520,Congo DR,1
+1521,Jiangyin,1
+1522,Xuçand,1
+1523,Thanyaburi,1
+1524,Mufalira,1
+1525,Würzburg,1
+1526,Eskilstuna,1
+1527,Batumi,1
+1528,Awasa,1
+1529,Queretaro,1
+1530,Penafiel,1
+1531,Pointe-à-Pierre,1
+1532,Vittel,1
+1533,Acarigua,1
+1534,Chenzhou,1
+1535,Yiwu,1
+1536,Alverca do Ribatejo,1
+1537,Levallois-Perret,1
+1538,Sintra,1
+1539,Ritzing,1
+1540,Yverdon-les-Bains,1
+1541,al-Hamriyah,1
+1542,Toyama,1
+1543,San Carlos,1
+1544,Terrassa,1
+1545,Qarshi,1
+1546,Germiston,1
+1547,Oulu,1
+1548,Xánthi,1
+1549,Woumé,1
+1550,João Pessoa,1
+1551,Qyzylorda,1
+1552,Costebelle,1
+1553,Kunshan,1
+1554,Aarau,1
+1555,Le Touquet-Paris-Plage,1
+1556,Gurjaani,1
+1557,Seongnam,1
+1558,Latacunga,1
+1559,Motherwell,1
+1560,Gentilly,1
+1561,La Marsa,1
+1562,Majadahonda,1
+1563,Mamoutzou,1
+1564,Évora,1
+1565,Orapa,1
+1566,Umlazi,1
+1567,Talcahuano,1
+1568,Lifou,1
+1569,Kecskemét,1
+1570,Chonburi,1
+1571,Hempstead,1
+1572,Maladzečna,1
+1573,Jerez,1
+1574,Pernis,1
+1575,Thanh Hóa,1
+1576,Burnley,1
+1577,Kilkís,1
+1578,Palmerstone North,1
+1579,Cebu,1
+1580,Harbin,1
+1581,Užice,1
+1582,Benin,1
+1583,Saint John,1
+1584,Dornbirn,1
+1585,Amanvillers,1
+1586,Byton,1
+1587,Jaffna,1
+1588,Alcochete,1
+1589,San Pedro de Alcántara,1
+1590,Keflavík,1
+1591,Wodzisław Śląski,1
+1592,Gabès,1
+1593,Burton on Trent,1
+1594,Lokeren,1
+1595,Sandavágur,1
+1596,Anshan,1
+1597,Kuwait,1
+1598,Xiaogan,1
+1599,Charkiv,1
+1600,Selayang,1
+1601,Zouérat,1
+1602,Cosenza,1
+1603,Phang Nga,1
+1604,Salé,1
+1605,Okayama,1
+1606,Enschede,1
+1607,Sedan,1
+1608,Thun,1
+1609,Matrei in Osttirol,1
+1610,Kolkota,1
+1611,Foggia,1
+1612,Korçë,1
+1613,Cascais,1
+1614,Soweto,1
+1615,Foshan,1
+1616,Zaporizhia,1
+1617,Yamoussoukro,1
+1618,Nicoya,1
+1619,Cheongju,1
+1620,Portimão,1
+1621,Cape Coast,1
+1622,Maisons-Alfort,1
+1623,Sucoma,1
+1624,Thủ Dầu Một,1
+1625,Nigeria,1
+1626,Semarang,1
+1627,Duncanville,1
+1628,Rookley,1
+1629,Malacca City,1
+1630,Vejle,1
+1631,Gama,1
+1632,Horsens,1
+1633,Villa Tunari,1
+1634,Hunedoara,1
+1635,Pori,1
+1636,Vicenza,1
+1637,Plymouth,1
+1638,Breda,1
+1639,Bonneuil-sur-Marne,1
+1640,Carouge,1
+1641,Koprivnica,1
+1642,Grassau,1
+1643,Hermosillo,1
+1644,Cremona,1
+1645,Dhahran,1
+1646,Clairfontaine,1
+1647,Morne-à-l'Eau,1
+1648,Ballarat,1
+1649,Loja,1
+1650,Drammen,1
+1651,Prievidza,1
+1652,Tottori,1
+1653,Sainte-Marie,1
+1654,Texcoco,1
+1655,Danlí,1
+1656,Saint-Joseph,1
+1657,Viborg,1
+1658,Olsztyn,1
+1659,Balchik,1
+1660,Dreux,1
+1661,Espargos,1
+1662,Molenbeek,1
+1663,Saulspoort,1
+1664,Uzhhorod,1
+1665,Tula,1
+1666,Peralada,1
+1667,Culiacán,1
+1668,Chon Buri,1
+1669,Al-Khader,1
+1670,Felcsút,1
+1671,Târgu Mureș,1
+1672,Campinas,1
+1673,Wiesbaden,1
+1674,Châteauroux,1
+1675,Niger,1
+1676,Kelsterbach,1
+1677,Senec,1
+1678,Le Gosier,1
+1679,İzmit,1
+1680,Bekasi,1
+1681,Terni,1
+1682,Kozáni,1
+1683,Blois,1
+1684,al-Ram,1
+1685,San Pedro,1
+1686,Senftenberg,1
+1687,Vélez-Málaga,1
+1688,Hrodna,1
+1689,Calama,1
+1690,Marcory,1
+1691,Eupen,1
+1692,Beit She'an,1
+1693,al-Ahsa,1
+1694,Zhodzina,1
+1695,Bodø,1
+1696,West Palm Beach,1
+1697,Asuncion,1
+1698,Congo,1
+1699,Kumanovo,1
+1700,Palmira,1
+1701,Kalutara,1
+1702,Amadora,1
+1703,La Calera,1
+1704,Guiyang,1
+1705,Maun,1
+1706,Panama,1
+1707,Bacalod,1
+1708,Xianghe,1
+1709,Zlaté Moravce,1
+1710,Buzău,1
+1711,Mount Maunganui,1
+1712,Spanish Town,1
+1713,San Martín,1
+1714,Chambéry,1
+1715,Almada,1
+1716,Awassa,1
+1717,Iași,1
+1718,Oleai,1
+1719,Nelspriut,1
+1720,Sidi Moussa,1
+1721,Saint Kitts and Nevis,1
+1722,Chiba,1
+1723,Villemomble,1
+1724,Coquitlam,1
+1725,Dinard,1
+1726,Seekirchen am Wallersee,1
+1727,Mohammedia,1
+1728,Mmabatho,1
+1729,Cutral Có,1
+1730,Fos-sur-Mer,1
+1731,Beuthen,1
+1732,Vitrolles,1
+1733,Kennesaw,1
+1734,Ashkelon,1
+1735,Creil,1
+1736,Pak Kret,1
+1737,Gori,1
+1738,Rakvere,1
+1739,Hammam Lif,1
+1740,Colonia,1
+1741,Qurghonteppa,1
+1742,Owando,1
+1743,Dnipro,1
+1744,Maia,1
+1745,Montélimar,1
+1746,Sauteurs,1
+1747,San Pedro del Pinatar,1
+1748,El Progreso,1
+1749,Kuusankoski,1
+1750,Zell am See,1
+1751,Porto Novo,1
+1752,Nchalo,1
+1753,Hershey,1
+1754,Kruševac,1
+1755,Szolnok,1
+1756,Zapopan,1
+1757,Samsun,1
+1758,Miyagi,1
+1759,Troyes,1
+1760,Naypyidaw,1
+1761,Alanya,1
+1762,La Chaux-de-Fonds,1
+1763,Ciudad Madero,1
+1764,Ciudad Quesada,1
+1765,Rieti,1
+1766,Kent,1
+1767,Long Beach,1
+1768,Campina Grande,1
+1769,Saint-Cloud,1
+1770,Kasarani,1
+1771,Belle Vue Harel,1
+1772,Celle Ligure,1
+1773,Paju,1
+1774,Nanterre,1
+1775,Kertepe,1
+1776,Erbil,1
+1777,Libya,1
+1778,Aguascalientes,1
+1779,Grenville,1
+1780,Grenada,1
+1781,Portalegre,1
+1782,Santiago de Compostela,1
+1783,Kimberley,1
+1784,Costa Mesa,1
+1785,Jounieh,1
+1786,South Geelong,1
+1787,Obeid,1
+1788,Waregem,1
+1789,Colón,1
+1790,Grodzisk Wielkopolski,1
+1791,Oxnard,1
+1792,Samut Sakhon,1
+1793,Ras al-Khaimah,1
+1794,Sliven,1
+1795,Serowe,1
+1796,San Nicolás de los Garza,1
+1797,Herzliyya,1
+1798,Reading,1
+1799,Bellinzona,1
+1800,Ciudad Victoria,1
+1801,Bejaia,1
+1802,Jönköping,1
+1803,Trenčín,1
+1804,Talca,1
+1805,Jagodina,1
+1806,Uganda,1
+1807,Narbonne,1
+1808,Kranj,1
+1809,Tours,1
+1810,Belle Vue,1
+1811,Bois-Guillaume,1
+1812,Bedfont,1
+1813,Athersley,1
+1814,Cernăuţi,1
+1815,Villavicencio,1
+1816,Razgrad,1
+1817,Le Bouscat,1
+1818,Bakıxanov,1
+1819,Dolisie,1
+1820,Namibia,1
+1821,Upper Bethlehem,1
+1822,Haskovo,1
+1823,Potchefstroom,1
+1824,Bogota,1
+1825,Boulogne-Sur-Mer,1
+1826,Zambia,1
+1827,Braddan,1
+1828,Águeda,1
+1829,Almería,1
+1830,Bischofshofen,1
+1831,Kota Baharu,1
+1832,St Louis,1
+1833,Huddersfield,1
+1834,Tsévié,1
+1835,Iquitos,1
+1836,Poissy,1
+1837,Rimini,1
+1838,Brikama,1
+1839,Hialeah,1
+1840,Marignane,1
+1841,Bodmin,1
+1842,Brasilia,1
+1843,Damman,1
+1844,Windsor,1
+1845,Mikkeli,1
+1846,Béja,1
+1847,Kerkrade,1
+1848,Prešov,1
+1849,Oakfield,1
+1850,Pontevedra,1
+1851,Bad Waltersdorf,1
+1852,Stockton,1
+1853,Guinea,1
+1854,Greenock,1
+1855,Ipswich,1
+1856,Gzira,1
+1857,Tauranga,1
+1858,Independencia,1
+1859,Leeuwarden,1
+1860,Jakobstad,1
+1861,Gaziantep,1
+1862,Penrith,1
+1863,Nilphamari Sadar,1
+1864,Giurgiu,1
+1865,Karlstad,1
+1866,Baiersbronn,1
+1867,Norrbacka,1
+1868,Shrewsbury,1
+1869,Vlorë,1
+1870,Tríkala,1
+1871,Al-Mahalla al-Kubra,1
+1872,Gifu,1
+1873,Baie-Mahault,1
+1874,Saint Petersburg,1
+1875,Fredrikstad,1
+1876,Azogues,1
+1877,Schwechat,1
+1878,Kaolack,1
+1879,Santa Barbara,1
+1880,Lleida,1
+1881,Montbéliard,1
+1882,Ar Ram,1
+1883,Mersin,1
+1884,Kenya,1
+1885,Cáceres,1
+1886,Gdynia,1
+1887,Campobasso,1
+1888,Compiègne,1
+1889,Choa Chu Kang,1
+1890,Wroclaw,1
+1891,Zanzibar Town,1
+1892,Zwickau,1
+1893,Aosta,1
+1894,Smederevo,1
+1895,Grand Bay,1
+1896,Cluj-Napoca,1
+1897,Buraidah,1
+1898,Aue,1
+1899,Les Avirons,1
+1900,Tuzla,1
+1901,San Marcos,1
+1902,Alderney,1
+1903,Warri,1
+1904,Sukhumi,1
+1905,Kiev,1
+1906,Portsmouth,1
+1907,Masan,1
+1908,Évian-les-Bains,1
+1909,Barcelos,1
+1910,Batna,1
+1911,Karksi-Nuia,1
+1912,Thonon-les-Bains,1
+1913,Avellino,1
+1914,Juticalpa,1
+1915,Suphan Buri,1
+1916,Lourenço Marques,1
+1917,Vágur,1
+1918,Paranavaí,1
+1919,Cúcuta,1
+1920,Al-Jahra,1
+1921,Harrogate,1
+1922,Cartago,1
+1923,Pasig City,1
+1924,Maracay,1
+1925,Sevilla,1
+1926,Nishinomiya,1
+1927,Alor Setar,1
+1928,Lauderhill,1
+1929,Manisa,1
+1930,San Isidro de El General,1
+1931,Domžale,1
+1932,Homs,1
+1933,Vinkovci,1
+1934,Cincinnati,1
+1935,Chungju,1
+1936,Pleven,1
+1937,Táchira,1
+1938,Empoli,1
+1939,David,1
+1940,San Bernardino,1
+1941,Berkane,1
+1942,Quilmes,1
+1943,Bayreuth,1
+1944,Groznyy,1
+1945,Kurunegala,1
+1946,Saint-Laurent-du-Maroni,1
+1947,Luanshya,1
+1948,Nagasaki,1
+1949,Napier,1
+1950,Saint-Louis,1
+1951,Kohtla-Järve,1
+1952,Salt Lake City,1
+1953,Gwelo,1
+1954,Tetovo,1
+1955,Kematen,1
+1956,Húsavík,1
+1957,Babahoyo,1
+1958,Biel,1
+1959,Kouvola,1
+1960,Torres Novas,1
+1961,Bihać,1
+1962,Keetmanshoop,1
+1963,Burkina Faso,1
+1964,Blackpool,1
+1965,Lənkəran,1
+1966,Sandy City,1
+1967,Resistencia,1
+1968,Navua,1
+1969,Sauðárkrókur,1
+1970,Cebu City,1
+1971,Misrata,1
+1972,Yogyakarta,1
+1973,Wan Chai,1
+1974,Bat Yam,1
+1975,Settat,1
+1976,Pistoia,1
+1977,Cordoba,1
+1978,Berrechid,1
+1979,Aberdare,1
+1980,Kalmar,1
+1981,Iława,1
+1982,Orange Walk,1
+1983,Houmet Souk,1
+1984,al-Salmiya,1
+1985,Njarðvík,1
+1986,Mondercange,1
+1987,Piacenza,1
+1988,Osorno,1
+1989,Tosu,1
+1990,Az Zawiyah,1
+1991,Mamoudzou,1
+1992,Naruto,1
+1993,Opole,1
+1994,Tendo,1
+1995,Gutavallen,1
+1996,Dieppe,1
+1997,Martigues,1
+1998,Pécs,1
+1999,České Budějovice,1
+2000,Bitam,1
+2001,Fort Worth,1
+2002,Chillán,1
+2003,Cibinong,1
+2004,Rize,1
+2005,Varginha,1
+2006,Mabopane,1
+2007,Quetta,1
+2008,Oradea,1
+2009,Kayès,1
+2010,Óbidos,1
+2011,Ansan,1
+2012,Yacuiba,1
+2013,Mali,1
+2014,Como,1
